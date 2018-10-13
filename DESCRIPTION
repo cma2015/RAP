@@ -1,0 +1,25 @@
+Package: RAP
+Type: Package
+Title: Rank aggregation-based data fusion for gene prioritization
+Version: 1.0
+Date: 2016-07-28
+Author: Jingjing Zhai and Chuang Ma
+Maintainer: Jingjing Zhai <zhaijingjing603@gmail.com>
+Depends: R (>= 3.3.0)
+Imports: randomForest, protr, missForest, RobustRankAggreg, snowfall,
+        pROC
+Description: RAP can be used to perform the gene prioritization in Arabidopsis thaliana 
+             and 28 non-plant species. The input of RAP are a set of genes of interest and
+	     the network-based gene prioritization results from AraNet v2 system, while the
+	     output are the ranks of candidate genes. RAP has been successfully applied to
+	     prioritize flowering-time genes in Arabidopsis. The genome-wide experimental
+	     results indicate that RAP can be used as a complement to the network-based gene
+	     prioritization algorithm (e.g., AraNet v2) for accurately prioritizing candidate
+	     genes underlying biological processes or agricultural traits.
+LazyData: true
+License: GPL (>= 2)
+URL: http://bioinfo.nwafu.edu.cn/software
+NeedsCompilation: no
+Repository: CRAN
+RoxygenNote: 5.0.1
+Packaged: 2016-07-27 20:43:16 UTC; malab8
