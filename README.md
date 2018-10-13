@@ -12,7 +12,7 @@ install_github("cma2015/RAP")
 Please refer to https://github.com/cma2015/RAP/blob/master/RAP-Reference-Manual.pdf for details about each function.
 
 ## Contact
-If any suggestions are available, feel free to contact: **Zhai Jingjing** <zhaijingjing603@gmail.com>
+If any suggestions are available, feel free to contact: **Zhai Jingjing**(<zhaijingjing603@gmail.com>)
 
 ## Citation
 Zhai, J., Tang, Y., Yuan, H., Wang, L., Shang, H., & Ma, C. (2016). [**A meta-analysis based method for prioritizing candidate genes involved in a pre-specific function.**](https://www.frontiersin.org/articles/10.3389/fpls.2016.01914/full) Frontiers in plant science, 7, 1914.
